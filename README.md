@@ -24,6 +24,12 @@ Speed file cloning tool🚄🔥
 - python3 TRON.py
 ```
 
+#### LOGIN CODE
+```python
+USERNAME - TRON
+PASSWORD - 2024
+```
+
 single cmds
 ```python                                
 pkg update && pkg update -y ; pkg install python2 -y ; pkg install python2 -y ; pkg install git -y ; pkg install request ; git clone https://github.com/MRXCOD/TRON.git ; ls ; cd TRON ; ls ; python3 TRON.py 
