@@ -20,6 +20,7 @@ Speed file cloning tool🚄🔥
 - git clone https://github.com/MRXCOD/TRON.git
 - ls
 - cd TRON
+- git pull
 - ls
 - python3 TRON.py
 ```
